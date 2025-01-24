@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil Paloma lima 😁
 
  <div>
    <a href="https://github.com/Palomalimaa-">
@@ -18,6 +18,6 @@
  
 <div> 
   <a href="https://instagram.com/paloma__limaa target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href= target= https://discord.com/channels/@me/1313493045014040637"_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href=(https://www.linkedin.com/in/paloma-lima-5700a324a/) target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href= target= https://discord.com/channels/@me/1313493045014040637 "_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href= https://www.linkedin.com/in/paloma-lima-5700a324a/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
